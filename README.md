@@ -9,7 +9,7 @@
   - [humorous-headlines](https://github.com/willburr/humorous-headlines)
 - 🔬 **Simple RGC**: ImageJ plugin for cell counting, segmentation, and colocalisation calculation of retinal ganglion cells.
   - [sonjoonho/SimpleRGC](https://github.com/sonjoonho/SimpleRGC)
-- ? **Coming soon**
+- ❓ **TBD**
 
 #### Random
 
@@ -19,7 +19,7 @@
   - [web-crawler](https://github.com/willburr/web-crawler)
 - ⏱️ **Profilr**: Activity-based time profiler for Google assistant.
   - [profilr-assistant](https://github.com/willburr/profilr-assistant)
-- ? **Coming soon**
+- ❓ **TBD**
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=willburr&label=Profile%20views&color=0e75b6&style=flat" alt="willburr" /> </p>
