@@ -1,6 +1,6 @@
-## Hi there 👋
+### Hi there 👋
 
-### University Projects
+#### University Projects
 
 - 🙋‍♂️ **Mobilise**: A web application for smart volunteer co-ordination.
   - [mobilise-xyz/mobilise-frontend](https://github.com/mobilise-xyz/mobilise-frontend)
@@ -10,7 +10,7 @@
 - 🔬 **Simple RGC**: ImageJ plugin for cell counting, segmentation, and colocalisation calculation of retinal ganglion cells.
   - [sonjoonho/SimpleRGC](https://github.com/sonjoonho/SimpleRGC)
 
-### Random
+#### Random
 
 - 🗺️ **Travel Memories**: An iOS app for recording travel photos across time/countries.
   - [travel-memories-app](https://github.com/willburr/travel-memories-app)
